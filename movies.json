@@ -1,0 +1,44 @@
+[
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/r7Xifzvtez4JD3ynizhd250xCJp.jpg",
+        "name": "The Dark Knight",
+        "rating": "4.8",
+        "watch_link": "#",
+        "download_link": "#"
+    },
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/kGFKaLDElBUZMc1hX1G2Szh0YFR.jpg",
+        "name": "Inception",
+        "rating": "4.7",
+        "watch_link": "#",
+        "download_link": "#"
+    },
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/pB82qt6gK1DhlKZgxd2l8dJ9sM.jpg",
+        "name": "Fight Club",
+        "rating": "4.6",
+        "watch_link": "#",
+        "download_link": "#"
+    },
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "name": "Pulp Fiction",
+        "rating": "4.9",
+        "watch_link": "#",
+        "download_link": "#"
+    },
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/suaEOtk1N1sgg2MTM7oZd2vyrpF.jpg",
+        "name": "The Matrix",
+        "rating": "4.5",
+        "watch_link": "#",
+        "download_link": "#"
+    },
+    {
+        "poster_url": "https://image.tmdb.org/t/p/w500/A2oEkjM0t7bI1vCj2uS8S5I2FE.jpg",
+        "name": "Blade Runner 2049",
+        "rating": "4.5",
+        "watch_link": "#",
+        "download_link": "#"
+    }
+]
