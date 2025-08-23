@@ -1,23 +1,9 @@
 [
     {
-        "poster_url": "https://image.tmdb.org/t/p/w500/r7Xifzvtez4JD3ynizhd250xCJp.jpg",
-        "name": "The Dark Knight",
-        "rating": "4.8",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTYwYzYxMWYtZmI4MS00ZGRhLWEyMGEtZTdiODc3YjAyNDE0XkEyXkFqcGc@._V1_.jpg",
+        "name": "Coolie",
+        "rating": "5.0",
         "filename_gdrive": "coolie.mkv",
-        "download_link": "#"
-    },
-    {
-        "poster_url": "https://image.tmdb.org/t/p/w500/kGFKaLDElBUZMc1hX1G2Szh0YFR.jpg",
-        "name": "Inception",
-        "rating": "4.7",
-        "filename_gdrive": "Inception.mp4",
-        "download_link": "#"
-    },
-    {
-        "poster_url": "https://image.tmdb.org/t/p/w500/pB82qt6gK1DhlKZgxd2l8dJ9sM.jpg",
-        "name": "Fight Club",
-        "rating": "4.6",
-        "filename_gdrive": "Fight Club.mkv",
         "download_link": "#"
     }
 ]
