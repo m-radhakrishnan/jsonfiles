@@ -5,5 +5,12 @@
         "rating": "5.0",
         "filename_gdrive": "coolie.mkv",
         "download_link": "#"
+    },
+    {
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQ1OTIyNmQtZDc2OC00YzM0LTg3NzAtZGEwNGNkODYyZWZhXkEyXkFqcGc@._V1_.jpg",
+        "name": "Good Bad Ugly",
+        "rating": "5.0",
+        "filename_gdrive": "gbu.mkv",
+        "download_link": "#"
     }
 ]
