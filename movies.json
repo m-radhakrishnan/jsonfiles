@@ -19,5 +19,12 @@
         "rating": "3.0",
         "filename_gdrive": "ThalaivanThalaivii.mkv",
         "download_link": "#"
+    },
+    {
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_.jpg",
+        "name": "F1",
+        "rating": "4",
+        "filename_gdrive": "f1.mkv",
+        "download_link": "https://drive.google.com/uc?export=download&id=1Na6trpfDO_Ma_8yg6oRqdijfGzegPLWG"
     }
 ]
